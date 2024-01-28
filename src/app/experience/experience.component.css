@@ -1,0 +1,40 @@
+  
+  #experience {
+    padding: 60px 0;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    color: #007bff;
+    margin-bottom: 30px;
+  }
+  
+  .experience-entry {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .company-logo {
+    max-width: 80px;
+    border-radius: 50%;
+  }
+  
+  .company-name {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .position,
+  .duration {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 8px;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #777;
+    line-height: 1.6;
+  }

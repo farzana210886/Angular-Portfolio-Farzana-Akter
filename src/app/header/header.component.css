@@ -1,0 +1,51 @@
+header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 60px 0;
+}
+
+.header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+img {
+  margin-bottom: 20px;
+  display: block;
+  
+}
+
+.lead {
+  font-size: 1.2rem;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.portfolio-description {
+  font-size: 1rem;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.list-inline {
+  padding: 0;
+  margin: 0;
+}
+
+.list-inline-item {
+  margin-right: 15px;
+}
+
+.list-inline-item:last-child {
+  margin-right: 0;
+}
+
+.list-inline-item a {
+  color: #fff;
+  text-decoration: none;
+}

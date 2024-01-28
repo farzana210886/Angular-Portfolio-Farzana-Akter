@@ -1,0 +1,32 @@
+
+  #contact {
+    padding: 60px 0;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    color: #007bff;
+    margin-bottom: 30px;
+  }
+  
+  .contact-entry {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .contact-label {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 8px;
+  }
+ 
+  .fas {
+    color: #007bff;
+  }

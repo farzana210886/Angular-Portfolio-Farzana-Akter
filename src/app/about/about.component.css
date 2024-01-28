@@ -1,0 +1,39 @@
+
+#about {
+  padding: 60px 0;
+}
+
+.section-title {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 30px;
+}
+
+.profile-picture {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.about-description {
+  font-size: 1.2rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.skills-title {
+  font-size: 1.5rem;
+  color: #333;
+  margin-top: 20px;
+}
+
+.skills-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills-list li {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 8px;
+}
